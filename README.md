@@ -4,7 +4,7 @@
 
 Hello! I'm Murillo Yonamine, taking my first steps in my professional career and aiming to achieve a level that reflects all my efforts and dedication.
 
-Currently, I'm a Computer Science student at Senac Santana and will be pursuing Digital Games in the future. My current knowledge includes areas like HTML, CSS, Bootstrap, C#, MySQL, Python, Linux, Windows, and Hardware.
+Currently, I'm a student at Senac Santana and will be pursuing Digital Games in the future. My current knowledge includes areas like HTML, CSS, Bootstrap, C#, MySQL, Python, Linux, Windows, and Hardware.
 
 ## Projects
 
