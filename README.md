@@ -10,11 +10,13 @@ Olá! Sou o Murillo Yonamine, apaixonado por tecnologia e desenvolvimento de sof
 - [Projeto 2](link_projeto2): Descrição do projeto 2.
 - [Projeto 3](link_projeto3): Descrição do projeto 3.
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MurilloYonamine&show_icons=true&theme=tokyonight)
-
-## Linguagens Mais Utilizadas
-
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloYonamine&theme=tokyonight)
-
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=MurilloYonamine&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloYonamine&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
+    </td>
+  </tr>
+</table>
