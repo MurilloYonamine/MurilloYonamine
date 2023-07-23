@@ -13,20 +13,11 @@ Atualmente, sou estudante de Informática no Senac Santana e cursarei Jogos Digi
 - [Projeto 3](link_projeto3): Descrição do projeto 3.
 
 ## GitHub Status e Linguagens Mais Utilizadas
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=MurilloYonamine&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloYonamine&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
-    </td>
-  </tr>
-</table>
-
-## GitHub Contributions
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MurilloYonamine&theme=tokyonight)
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=MurilloYonamine&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloYonamine&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=MurilloYonamine&theme=tokyonight&hide_border=true&background=FFFFFF00">
+</p>
 
 ## Contato
 
