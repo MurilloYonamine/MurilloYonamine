@@ -2,7 +2,9 @@
 
 ## Sobre mim
 
-Olá! Sou o Murillo Yonamine, apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará alguns dos meus projetos e contribuições para a comunidade de código aberto.
+Olá! Sou o Murillo Yonamine, estou embarcando nos meus primeiros passos em minha carreira profissional e almejo alcançar um nível que reflita todos os meus esforços e dedicação.
+
+Atualmente, sou estudante de Informática no Senac Santana e cursarei Jogos Digitais no futuro. Meu conhecimento atual abrange áreas como HTML, CSS, Bootstrap, C#, MySQL, Python, Linux, Windows e Hardwares.
 
 ## Projetos
 
@@ -25,3 +27,8 @@ Olá! Sou o Murillo Yonamine, apaixonado por tecnologia e desenvolvimento de sof
 ## GitHub Contributions
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MurilloYonamine&theme=tokyonight)
+
+## Contato
+
+- Linkedin: [Murillo Yonamine](https://www.linkedin.com/in/murillo-gomes-yonamine/)
+- E-mail: profissionalmurillogomes@gmail.com
