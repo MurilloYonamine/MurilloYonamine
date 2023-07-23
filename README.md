@@ -21,5 +21,5 @@ Currently, I'm a Computer Science student at Senac Santana and will be pursuing 
 
 ## Contact
 
-- LinkedIn: [Murillo Yonamine](https://www.linkedin.com/in/murillo-gomes-yonamine/)
+- Linkedin: [Murillo Yonamine](https://www.linkedin.com/in/murillo-gomes-yonamine/)
 - Email: profissionalmurillogomes@gmail.com
