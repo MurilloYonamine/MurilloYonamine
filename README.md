@@ -9,7 +9,7 @@ Atualmente, sou estudante de Informática no Senac Santana e cursarei Jogos Digi
 ## Projetos
 
 - [Pet Shop](https://github.com/MurilloYonamine/Pet_Shop): um sistema de gerenciamento de Pet Shop desenvolvido em equipe utilizando a linguagem C# e banco de dados SQL.
-- [Amauri Arquitetura]((https://github.com/MurilloYonamine/Amauri-Arquitetura)): O website da Amauri Arquitetura é um site estático desenvolvido com base nas tecnologias HTML, PHP e CSS, além do Bootstrap.
+- [Amauri Arquitetura](https://github.com/MurilloYonamine/Amauri-Arquitetura): O website da Amauri Arquitetura é um site estático desenvolvido com base nas tecnologias HTML, PHP e CSS, além do Bootstrap.
 - [Calculadora Simples em JS](https://github.com/MurilloYonamine/Calculadora-em-Javascript): Este é um projeto simples de uma calculadora implementada em HTML, CSS e JavaScript.
 
 ## GitHub Status e Linguagens Mais Utilizadas
