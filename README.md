@@ -21,3 +21,7 @@ Olá! Sou o Murillo Yonamine, apaixonado por tecnologia e desenvolvimento de sof
     </td>
   </tr>
 </table>
+
+## GitHub Contributions
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MurilloYonamine&theme=tokyonight)
