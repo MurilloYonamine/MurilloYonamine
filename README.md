@@ -1,17 +1,20 @@
-### Hi there 👋
+# Bem-vindo ao meu perfil do GitHub!
 
-<!--
-**MurilloYonamine/MurilloYonamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Olá! Sou o Murillo Yonamine, apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará alguns dos meus projetos e contribuições para a comunidade de código aberto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloYonamine&theme=tokyonight)
+## Projetos
+
+- [Projeto 1](link_projeto1): Descrição do projeto 1.
+- [Projeto 2](link_projeto2): Descrição do projeto 2.
+- [Projeto 3](link_projeto3): Descrição do projeto 3.
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MurilloYonamine&show_icons=true&theme=tokyonight)
+
+## Linguagens Mais Utilizadas
+
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloYonamine&theme=tokyonight)
+
