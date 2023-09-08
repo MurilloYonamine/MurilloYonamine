@@ -1,5 +1,4 @@
-![alt text][(http://url/to/img.png](https://camo.githubusercontent.com/bd78dcc40ff40a630e88eb5d0caf8fd78b92d7f02397219ae8858b6e947b1970/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303438376164266865696768743d3132302673656374696f6e3d686561646572
-))
+![alt text][(https://camo.githubusercontent.com/bd78dcc40ff40a630e88eb5d0caf8fd78b92d7f02397219ae8858b6e947b1970/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303438376164266865696768743d3132302673656374696f6e3d686561646572)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+My+name+is+Murillo!;I'm+a+Full+Stack+Developer;Be+welcome!!)](https://git.io/typing-svg)
 
 Currently, I'm a student at Senac Santana and will be pursuing Digital Games in the future. My current knowledge includes areas like HTML, CSS, Bootstrap, C#, MySQL, Python, Linux, Windows, and Hardware.
