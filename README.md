@@ -32,4 +32,9 @@
 - [Amauri Arquitetura](https://github.com/MurilloYonamine/Amauri-Arquitetura): The website for Amauri Arquitetura, a static site developed using HTML, PHP, CSS, and Bootstrap.
 - [Simple JS Calculator](https://github.com/MurilloYonamine/Calculadora-em-Javascript): A simple calculator project implemented using HTML, CSS, and JavaScript.
 
+## Contact
+
+- Linkedin: [Murillo Yonamine](https://www.linkedin.com/in/murillo-gomes-yonamine/)
+- Email: profissionalmurillogomes@gmail.com
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0487ad&height=120&section=footer"/>
