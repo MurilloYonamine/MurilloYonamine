@@ -12,9 +12,12 @@
 <p>Currently, I'm a student at Senac Santana and will be pursuing Digital Games in the future. My current knowledge includes areas like HTML, CSS, Bootstrap, C#, MySQL, Python, Linux, Windows, and Hardware.</p>
 
   - 👨🏼‍💻 Full Stack Developer
-  - 🎮 Love games
+  - 🐧 Love Linux
+  - 🎵 Love Music
+  - 📘 Studying ASP.NET
 
 ## Languages
+<br>
 
 <div align="center">
   <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
