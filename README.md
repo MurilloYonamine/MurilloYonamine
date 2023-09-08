@@ -2,7 +2,7 @@
 
 ## About me
 
-Hello! I'm Murillo Yonamine, taking my first steps in my professional career and aiming to achieve a level that reflects all my efforts and dedication.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hello%2C+My+name+is+Murillo!;I'm+a+Full+Stack+Developer;Be+welcome!!)](https://git.io/typing-svg)
 
 Currently, I'm a student at Senac Santana and will be pursuing Digital Games in the future. My current knowledge includes areas like HTML, CSS, Bootstrap, C#, MySQL, Python, Linux, Windows, and Hardware.
 
