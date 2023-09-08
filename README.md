@@ -9,6 +9,7 @@
 </div>
 
 # About me
+Currently, I'm a student at Senac Santana and will be pursuing Digital Games in the future. My current knowledge includes areas like HTML, CSS, Bootstrap, C#, MySQL, Python, Linux, Windows, and Hardware.
 
   - 👨🏼‍💻 Full Stack Developer
   - 🎮 Love games
@@ -23,5 +24,10 @@
   <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />       
   <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
+
+# Projects
+Pet Shop: A Pet Shop management system developed in C# with SQL database, as a team project.
+Amauri Arquitetura: The website for Amauri Arquitetura, a static site developed using HTML, PHP, CSS, and Bootstrap.
+Simple JS Calculator: A simple calculator project implemented using HTML, CSS, and JavaScript.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0487ad&height=120&section=footer"/>
