@@ -2,7 +2,7 @@
 
 ## About me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hello%2C+My+name+is+Murillo!;I'm+a+Full+Stack+Developer;Be+welcome!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+My+name+is+Murillo!;I'm+a+Full+Stack+Developer;Be+welcome!!)](https://git.io/typing-svg)
 
 Currently, I'm a student at Senac Santana and will be pursuing Digital Games in the future. My current knowledge includes areas like HTML, CSS, Bootstrap, C#, MySQL, Python, Linux, Windows, and Hardware.
 
