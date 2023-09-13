@@ -28,7 +28,7 @@
 </div>
 
 ## Projects
-- [Jogo 2D Inspirado no Dinossaurinho do Google](https://github.com/MurilloYonamine/Projeto-Jogo-2D): Um jogo de corrida 2D que lebra o jogo do dinossaurinho do Google, desenvolvido em JavaScript com Node.js e arquitetura MVC. O jogo apresenta uma mecânica de corrida emocionante, gráficos cativantes e um confronto final com o "Professor".
+- [Code Broken](https://github.com/MurilloYonamine/Projeto-Jogo-2D): A 2D running game developed in JavaScript with Node.js and MVC architecture. The game features thrilling running mechanics, captivating graphics, and a final showdown with the "Professor".
 - [Pet Shop](https://github.com/MurilloYonamine/Pet_Shop): A Pet Shop management system developed in C# with SQL database, as a team project.
 - [Amauri Arquitetura](https://github.com/MurilloYonamine/Amauri-Arquitetura): The website for Amauri Arquitetura, a static site developed using HTML, PHP, CSS, and Bootstrap.
 - [Simple JS Calculator](https://github.com/MurilloYonamine/Calculadora-em-Javascript): A simple calculator project implemented using HTML, CSS, and JavaScript.
