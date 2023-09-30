@@ -7,7 +7,6 @@
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloYonamine&hide_progress=false&theme=tokyonight&layout=compact" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MurilloYonamine&show_icons=true&theme=tokyonight&layout=compact"/> 
 </div>
-
 ## About me
 <p>Currently, I'm a student at Senac Santana and will be pursuing Digital Games in the future. My current knowledge includes areas like HTML, CSS, Bootstrap, C#, MySQL, Python, Linux, Windows, and Hardware.</p>
 
