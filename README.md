@@ -6,7 +6,7 @@
 <div align="center">  
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloYonamine&hide_progress=false&theme=tokyonight&layout=compact" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MurilloYonamine&show_icons=true&theme=tokyonight&layout=compact"/> 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+  <img width="49%" height="195px" src=![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)/> 
 </div>
 
 ## About me
