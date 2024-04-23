@@ -21,10 +21,10 @@
 
 <div align="center">
   <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-  <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />       
-  <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+  <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />       
+  <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gdscript/gdscript-original.svg" />       
+  
 </div>
 
 ## Projects
