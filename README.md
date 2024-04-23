@@ -16,7 +16,7 @@
   - 👾 Love Games
   - 📘 Studying Unity
 
-## Languages
+## Tools
 <br>
 
 <div align="center">
