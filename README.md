@@ -11,7 +11,7 @@
 ## About me
 <p>Currently, I'll be a student at Senac Santo Amaro and will be pursuing Digital Games in the future. My current knowledge includes areas like HTML, CSS, Bootstrap, C#, MySQL, Python, Linux, Windows, and Hardware.</p>
 
-  - 👨🏼‍💻 Full Stack Developer
+  - 👨🏼‍💻 Game Developer
   - 🐧 Love Linux
   - 👾 Love Games
   - 📘 Studying Unity
