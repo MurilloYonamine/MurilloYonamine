@@ -8,6 +8,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats-pi-navy-64.vercel.app/api?username=MurilloYonamine&show_icons=true&theme=tokyonight&layout=compact&locale=pt-br"/> 
 </div>
 
+https://github-readme-stats-pi-navy-64.vercel.app/api/top-langs/?username=MurilloYonamine&hide_progress=false&theme=tokyonight&layout=compact&locale=pt-br
+
 ## About me
 <p>Currently, I'll be a student at Senac Santo Amaro and will be pursuing Digital Games in the future. My current knowledge includes areas like HTML, CSS, Bootstrap, C#, MySQL, Python, Linux, Windows, and Hardware.</p>
 
