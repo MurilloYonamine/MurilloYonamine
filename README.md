@@ -4,11 +4,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+My+name+is+Murillo!;I'm+a+Game+Developer;Be+welcome!!" alt="Typing SVG" /></a></div>
   
 <div align="center">  
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloYonamine&hide_progress=false&theme=tokyonight&layout=compact&locale=pt-br" />
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloYonamine&hide_progress=false&theme=tokyonight&layout=donut&locale=pt-br" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MurilloYonamine&show_icons=true&theme=tokyonight&layout=compact&locale=pt-br"/> 
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloYonamine&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
 <p>Currently, I'll be a student at Senac Santo Amaro and will be pursuing Digital Games in the future. My current knowledge includes areas like HTML, CSS, Bootstrap, C#, MySQL, Python, Linux, Windows, and Hardware.</p>
