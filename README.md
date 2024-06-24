@@ -8,7 +8,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MurilloYonamine&show_icons=true&theme=tokyonight&layout=compact&locale=pt-br"/> 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&layout=Demo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=demo&hide_progress=true)
 
 ## About me
 <p>Currently, I'll be a student at Senac Santo Amaro and will be pursuing Digital Games in the future. My current knowledge includes areas like HTML, CSS, Bootstrap, C#, MySQL, Python, Linux, Windows, and Hardware.</p>
