@@ -15,7 +15,7 @@
   <img width="40%" height="195px" src="https://github-readme-stats-pi-navy-64.vercel.app/api/top-langs/?username=MurilloYonamine&hide_progress=false&theme=tokyonight&layout=compact&locale=pt-br" />
   <img width="49%" height="195px" src="https://github-readme-stats-pi-navy-64.vercel.app/api?username=MurilloYonamine&show_icons=true&theme=tokyonight&layout=compact&locale=pt-br"/> 
 </div>
-##
+
 <div align="center">
   <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
