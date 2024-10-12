@@ -1,4 +1,4 @@
-<-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0487ad&height=120&section=header"/> -->
+> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0487ad&height=120&section=header"/>
 
 ## About me
 <p>Currently, I am a student at Senac Santo Amaro. My current knowledge includes areas like HTML, CSS, Bootstrap, C#, MySQL, Python, Linux, Windows, and Hardware.</p>
@@ -31,4 +31,4 @@
 - Linkedin: [Murillo Yonamine](https://www.linkedin.com/in/murillo-gomes-yonamine/)
 - Email: profissionalmurillogomes@gmail.com
   
-<-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0487ad&height=120&section=footer"/> -->
+> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0487ad&height=120&section=footer"/>
