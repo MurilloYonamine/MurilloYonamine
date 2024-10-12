@@ -1,5 +1,8 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0487ad&height=120&section=header"/> -->
 
+<div align="center">  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+My+name+is+Murillo!;I'm+a+Game+Developer;Be+welcome!!" alt="Typing SVG" /></a></div>
+
 ## About me
 <p>Currently, I am a student at Senac Santo Amaro. My current knowledge includes areas like HTML, CSS, Bootstrap, C#, MySQL, Python, Linux, Windows, and Hardware.</p>
 
@@ -7,9 +10,6 @@
   - 🐧 Love Linux
   - 👾 Love Games
   - 📘 Studying Unity
-
-<div align="center">  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+My+name+is+Murillo!;I'm+a+Game+Developer;Be+welcome!!" alt="Typing SVG" /></a></div>
   
 <div align="center">  
   <img width="40%" height="195px" src="https://github-readme-stats-pi-navy-64.vercel.app/api/top-langs/?username=MurilloYonamine&hide_progress=false&theme=tokyonight&layout=compact&locale=pt-br" />
