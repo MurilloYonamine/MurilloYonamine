@@ -16,7 +16,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats-pi-navy-64.vercel.app/api?username=MurilloYonamine&show_icons=true&theme=tokyonight&layout=compact&locale=pt-br"/> 
 </div>
 
-## Tools
 <br>
 
 <div align="center">
@@ -26,9 +25,9 @@
   
 </div>
 
-## Contact
+<!-- ## Contact
 
 - Linkedin: [Murillo Yonamine](https://www.linkedin.com/in/murillo-gomes-yonamine/)
-- Email: profissionalmurillogomes@gmail.com
+- Email: profissionalmurillogomes@gmail.com -->
   
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0487ad&height=120&section=footer"/> -->
