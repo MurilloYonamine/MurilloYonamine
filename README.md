@@ -23,7 +23,15 @@
   <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
   <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 
-  <hr width="1" size="500" style="0 auto" />
+   <div class="" style="
+      height: 45px;
+      width: 1px;
+      background-color: silver;
+      height: 100%;
+      float: left;
+      border: 2px ridge silver ;
+      border-radius: 2px;"
+   </div>
   
   <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /> 
   <img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
