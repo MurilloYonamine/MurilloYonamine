@@ -9,7 +9,7 @@
   - 👨🏼‍💻 Game Developer
   - 🐧 Love Linux
   - 👾 Love Games
-  - 📘 Studying Unity
+  - 📘 Studying Unity and C++
 
 ##  
 <div align="center">  
